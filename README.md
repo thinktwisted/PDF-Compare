@@ -6,6 +6,12 @@ images — side by side with the key changes highlighted, plus a pop-out
 
 ![side-by-side with highlights](docs/screenshot.png)
 
+## Download
+
+Grab the latest single-file build from the
+[releases page](https://github.com/thinktwisted/PDF-Compare/releases/latest):
+`PDFCompare.exe` (Windows x64, no installation needed).
+
 ## Features
 
 - **Side-by-side view** of both PDFs with synchronized scrolling
